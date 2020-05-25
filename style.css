@@ -15,3 +15,6 @@ figcaption {
   width: 800px;
   padding-left: 320px;
 }
+#details div{
+  display: block;
+}
