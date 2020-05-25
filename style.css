@@ -5,7 +5,7 @@ body {
   text-align: center;
 }
 nav a {
-  padding: (10px,0px,10px,0px);
+  padding: 10px, 0, 10px, 0;
   background: rgba(78,237,187, .4);
 }
 
