@@ -3,4 +3,7 @@ body {
   height: 100%;
   margin: auto;
 }
+header {
+  align-content: center;
+}
 
